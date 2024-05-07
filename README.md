@@ -2,7 +2,7 @@
 
 AWS (CLI, S3, RDS, Elastic Beanstalk) | CircleCI | GitHub
 
-In this project, the full-stack application is deployed to a cloud service provider, AWS, making it accessible to users. The AWS console is utilized to start and configure the necessary services for the application, including a database for storing user information and a web server for enabling user discovery of the site.
+In this project, the full-stack application is deployed to a cloud service provider AWS. The AWS console is utilized to start and configure the necessary services for the application, including a database for storing user information and a web server for enabling user discovery of the site.
 Additionally, a CI/CD pipeline is implemented with CircleCI linked to the project on GitHub, facilitating automatic deployment of the website to AWS.
 
 
